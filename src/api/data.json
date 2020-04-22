@@ -1,0 +1,28 @@
+{
+  "pekerjaan": [
+    {
+      "id": 1,
+      "name": "Andi",
+      "age": "33",
+      "job": "PNS"
+    },
+    {
+      "name": "Budi",
+      "age": "62",
+      "job": "Pengangguran",
+      "id": 3
+    },
+    {
+      "name": "Susilo",
+      "age": "41",
+      "job": "Teknisi",
+      "id": 4
+    },
+    {
+      "name": "haha",
+      "age": "32",
+      "job": "mnmds",
+      "id": 5
+    }
+  ]
+}
